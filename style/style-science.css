@@ -1,0 +1,54 @@
+    body{
+        background-position: center;
+        background-size: 70%;
+        background-repeat: no-repeat;
+        image-
+    }
+    .text{
+     padding: 0px 40px 0px;
+     font-size: 24px;
+    }
+    a:link {
+    color: black;
+    background-color: none;
+    text-decoration: none;
+    font-size: 20px;
+        }
+    a:visited {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+        }
+    a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+        }
+    a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+        }
+    .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    height: 83%;
+    border: 1px dotted #333;
+    padding: 50px 0px 10px 10px;
+    margin: 10px 10px 10px 120px;
+    border: dashed red;
+
+    }
+    .container1{
+
+    }
+    .container2{
+    width: 30%;
+    height: 50%;
+    padding: 10px 0px 10px 25px;
+    justify-content: center;
+    margin: 30px 0px 50px 400px;
+    justify-content: center;
+    }  
